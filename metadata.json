@@ -1,0 +1,6 @@
+{
+  "name": "Orçamentos Marmoraria",
+  "description": "Ferramenta profissional para gerar, calcular e exportar orçamentos de mármores e granitos com download em Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
