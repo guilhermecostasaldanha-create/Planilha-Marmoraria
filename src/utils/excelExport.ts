@@ -6,7 +6,7 @@ export function exportBudgetToExcel(budget: Budget, stones: Stone[], edges: Edge
   const rows: any[][] = [];
 
   // Title Row
-  rows.push(['ORÇAMENTO DE MARMORARIA - DETALHADO']);
+  rows.push(['Marmoraria Corte Fino']);
   rows.push(['']); // Empty gap
 
   // Customer & Budget metadata Block

@@ -327,7 +327,7 @@ export default function App() {
               <Calculator className="w-6 h-6 text-slate-950" />
             </div>
             <div>
-              <h1 className="text-xl font-extrabold tracking-tight">Marmoraria Sólida</h1>
+              <h1 className="text-xl font-extrabold tracking-tight">Marmoraria Corte Fino</h1>
               <p className="text-xs text-slate-400 font-medium">Gerador de Orçamentos de Bancadas, Soleiras & Cubas</p>
             </div>
           </div>
@@ -578,9 +578,9 @@ export default function App() {
         <div className="hidden print:block font-serif max-w-4xl mx-auto p-4 space-y-6 text-black bg-white">
           <div className="flex justify-between items-start border-b-2 border-slate-800 pb-4">
             <div>
-              <h1 className="text-3xl font-bold uppercase tracking-tight">Marmoraria Sólida</h1>
+              <h1 className="text-3xl font-bold uppercase tracking-tight">Marmoraria Corte Fino</h1>
               <p className="text-xs italic text-slate-500">Qualidade de corte refinado em mármores, granitos e quartzos</p>
-              <p className="text-xs text-slate-600 mt-1">Contato: contato@marmorariasolida.com.br</p>
+              <p className="text-xs text-slate-600 mt-1">Contato: contato@marmorariacortefino.com.br</p>
             </div>
             <div className="text-right">
               <h2 className="text-xl font-bold uppercase">Orçamento de Venda</h2>
@@ -601,7 +601,7 @@ export default function App() {
             </div>
             <div className="space-y-1">
               <h3 className="font-bold border-b border-slate-300 pb-1 mb-1 uppercase">Informações da Venda</h3>
-              <p><strong>Vendedor / Consultor:</strong> {activeBudget.salesperson || 'Marmoraria Sólida'}</p>
+              <p><strong>Vendedor / Consultor:</strong> {activeBudget.salesperson || 'Marmoraria Corte Fino'}</p>
               <p><strong>Método de Medição:</strong> Medição fina no local após fechamento das alvenarias</p>
               <p><strong>Prazo de Entrega:</strong> 15 dias úteis úteis do aval de medição.</p>
             </div>
